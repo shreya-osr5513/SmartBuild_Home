@@ -35,6 +35,8 @@ ESP32 in Wokwi
 ↓
 Fan / Light / AC
 
+
+```text
 SmartBuild Home Web Dashboard
             |
             | MQTT over WebSockets
@@ -43,13 +45,15 @@ SmartBuild Home Web Dashboard
             |
             | MQTT
             v
-       ESP32 Device
-     (Wokwi Simulation)
+        ESP32 Device
+      (Wokwi Simulation)
             |
             v
        Relay Modules
-       /     |      \
-    Light    Fan     AC
+       /     |     \
+    Light   Fan     AC
+```
+
 
 ---
 
