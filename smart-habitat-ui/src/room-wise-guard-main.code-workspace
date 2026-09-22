@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "esp32-room-node",
+			"path": "../../../../OneDrive/Documents/PlatformIO/Projects/esp32-room-node"
+		}
+	],
+	"settings": {}
+}
